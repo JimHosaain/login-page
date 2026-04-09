@@ -12,7 +12,7 @@ This project contains a ready-to-use animated login page built with React, TypeS
 
 ## How to use it in another project
 
-If your friend wants to use this login page in their own app, they can copy these files:
+Copy these files:
 
 - `src/components/ui/animated-characters-login-page.tsx`
 - `src/components/ui/bg-pattern.tsx`
@@ -22,7 +22,7 @@ If your friend wants to use this login page in their own app, they can copy thes
 - `src/components/ui/label.tsx`
 - `src/lib/utils.ts`
 
-They should also make sure these project files exist in their app:
+Make sure these project files exist in you app:
 
 - `tailwind.config.js`
 - `postcss.config.js`
