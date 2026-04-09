@@ -4,6 +4,7 @@ import path from 'node:path'
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: '/login-page/',
   plugins: [react()],
   resolve: {
     alias: {
