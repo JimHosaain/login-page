@@ -72,6 +72,6 @@ npm run dev
 npm run build
 ```
 
-## Simple sharing tip
+## Simple using tip
 
-If you want to share this with a friend, send the project folder or copy these files into their project. They only need to install the packages above and import the component into their page.
+You only need to install the packages above and import the component into your page.
